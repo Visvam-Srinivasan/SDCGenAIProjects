@@ -7,7 +7,7 @@ SKILL DEVELOPMENT COURSE GOOGLE COLAB CODE
 5. K means clustering - Event success analyzer
 6. Hierarchical Clustering - Retail Store customer grouping
 7. CNN - Image classifier
-8. Connecting to AI
+8. Connecting to AI - Chatbot using Gemini API
 9. Langchain 1 - ai powered chatbot
 10. Langchain 2 - news summariser
 11. Langchain 3 - language translator
