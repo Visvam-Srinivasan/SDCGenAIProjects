@@ -1,14 +1,15 @@
 SKILL DEVELOPMENT COURSE GOOGLE COLAB CODE
 
-1. House price prediction using Linear Regression
-2. Logistic regression
-3. Decision tree
-4. K means clustering
-5. Random Forests
-6. CNN
-7. Connecting to AI
-8. Langchain 1 -
-9. Langchain 2 -
-10. Langchain 3 -
-11. Langchain 4 -
-12. Langchain 5 - 
+1. Linear Regression - House price prediction
+2. Logistic regression - Email Spam Detection
+3. Logsitic regression - Cricket team victory predictor
+4. Decision tree
+5. K means clustering
+6. Random Forests
+7. CNN
+8. Connecting to AI
+9. Langchain 1 -
+10. Langchain 2 -
+11. Langchain 3 -
+12. Langchain 4 -
+13. Langchain 5 - 
