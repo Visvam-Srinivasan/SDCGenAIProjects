@@ -8,8 +8,8 @@ SKILL DEVELOPMENT COURSE GOOGLE COLAB CODE
 6. Random Forests
 7. CNN
 8. Connecting to AI
-9. Langchain 1 -
-10. Langchain 2 -
-11. Langchain 3 -
-12. Langchain 4 -
-13. Langchain 5 - 
+9. Langchain 1 - ai powered chatbot
+10. Langchain 2 - news summariser
+11. Langchain 3 - language translator
+12. Langchain 4 - resume analyser
+13. Langchain 5 - medical diagnosis assistant
