@@ -9,9 +9,13 @@ SKILL DEVELOPMENT COURSE GOOGLE COLAB CODE
 7. Hierarchical Clustering - Retail Store customer grouping
 8. CNN - Image classifier
 9. RNN - Movie Review sentiment analysis
-10. Connecting to AI - Chatbot using Gemini API
-11. Langchain 1 - ai powered chatbot
-12. Langchain 2 - news summariser
-13. Langchain 3 - language translator
-14. Langchain 4 - resume analyser
-15. Langchain 5 - medical diagnosis assistant
+10. GenAI - ChatBot
+11. GenAI - Language Translator
+12. GenAI - Text to Speech
+13. GenAI - Spam Detection
+14. Connecting to AI - Chatbot using Gemini API
+15. Langchain 1 - ai powered chatbot
+16. Langchain 2 - news summariser
+17. Langchain 3 - language translator
+18. Langchain 4 - resume analyser
+19. Langchain 5 - medical diagnosis assistant
