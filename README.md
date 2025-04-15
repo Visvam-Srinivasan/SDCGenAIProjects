@@ -1,7 +1,7 @@
 SKILL DEVELOPMENT COURSE GOOGLE COLAB CODE
 
 1. Linear Regression - House price prediction
-2. Linear Regression - 
+2. Linear Regression - Exam Score prediction based on hours of study
 3. Logistic regression - House price prediction
 4. Logsitic regression - Cricket team victory predictor
 5. Using Synthetic Data -
