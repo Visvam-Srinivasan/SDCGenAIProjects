@@ -14,7 +14,7 @@ SKILL DEVELOPMENT COURSE GOOGLE COLAB CODE
 13. CNN - Image classifier
 14. RNN - Movie Review sentiment analysis
 15. LSTM - Time Series Prediction
-16. CAN - MNIST Digit Generation
+16. GAN - MNIST Digit Generation
 17. ANN - Flower Classification
 18. GenAI - ChatBot
 19. GenAI - Language Translator
