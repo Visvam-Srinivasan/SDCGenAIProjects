@@ -28,3 +28,7 @@ SKILL DEVELOPMENT COURSE GOOGLE COLAB CODE
 27. Langchain 5 - medical diagnosis assistant
 28. Langchain between 2 Models -
 29. Langchain between model and -
+30. RAG - Youtube summarizer
+31. RAG - Medical chatbot
+32. RAG MultiModel - Audio Query Bot
+33. RAG MultiModel - Image Query Bot
